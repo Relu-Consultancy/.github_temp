@@ -1,5 +1,5 @@
 <p align="center">
- <a href="https://www.reluconsultancy.com" target="_blank"><img src="https://cdn.prod.website-files.com/65d7787caae19304122b9284/65dab1f5c90e9c01aaa96f04_Logo.png" alt="Relu Consultancy Banner" width="400"></a>
+ <a href="https://www.reluconsultancy.com/" target="_blank"><img src="https://cdn.prod.website-files.com/65d7787caae19304122b9284/65dab1f5c90e9c01aaa96f04_Logo.png" alt="Relu Consultancy Banner" width="400"></a>
     <br />
     <br />
  <div align="center">
@@ -18,7 +18,7 @@
     <b>We connect your business with innovation and growth through robust data solutions</b>
 </p>
 
-## About Relu Consultancy 🚀
+## About Relu Consultancy �
 
 We are a team of robust data engineers and software developers dedicated to providing web scraping and automation services. Our expertise lies in crafting data-driven solutions that connect your business with growth.
 
@@ -93,7 +93,7 @@ We have served **500+ clients globally**, helping them establish their businesse
 
 ## Connect With Us 📞
 
-- 🌐 [Website](https://www.reluconsultancy.com)
+- 🌐 [Website](https://www.reluconsultancy.com/)
 - 📧 Email: connect@reluconsultancy.com
 - 📍 Address: E-8/97 Trilanga Colony, Bhopal, India 462039
 
@@ -101,4 +101,4 @@ We have served **500+ clients globally**, helping them establish their businesse
 
 **Collab with us and activate your first skyward leap of Growth.**
 
-[Contact Us](https://www.reluconsultancy.com/contact) | [Try Free!](https://www.reluconsultancy.com)
+[Contact Us](https://www.reluconsultancy.com/contact) | [Try Free!](https://www.reluconsultancy.com/)
