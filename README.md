@@ -2,6 +2,19 @@
  <a href="https://www.reluconsultancy.com" target="_blank"><img src="https://cdn.prod.website-files.com/65d7787caae19304122b9284/65dab1f5c90e9c01aaa96f04_Logo.png" alt="Relu Consultancy Banner" width="400"></a>
     <br />
     <br />
+ <div align="center">
+    <a href="https://www.trustpilot.com/review/reluconsultancy.com" target="_blank">
+        <img src="https://cdn.prod.website-files.com/65d7787caae19304122b9284/66c86d0be116678723864726_trustpilot.webp" alt="Trustpilot logo" height="50">
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://www.g2.com/products/relu-consultancy/reviews" target="_blank">
+        <img src="https://cdn.prod.website-files.com/65d7787caae19304122b9284/66c86d0c859a66cd2f10d63b_google.webp" alt="G2 logo" height="50">
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://g.co/kgs/P7VxVjB" target="_blank">
+        <img src="https://cdn.prod.website-files.com/65d7787caae19304122b9284/66c86d0be9d061a47892ae0a_google-logo.webp" alt="Google logo" height="50">
+    </a>
+</div>
     <b>We connect your business with innovation and growth through robust data solutions</b>
 </p>
 
@@ -23,21 +36,6 @@ We are a team of robust data engineers and software developers dedicated to prov
 |------|---------|--------|
 | To deliver perfect and highly organized data services aligning with your business through continuous research and ethical practices | To modernize how organizations access, analyze, and utilize data through our solutions | To help companies achieve peak success through web scraping and automation services |
 
-## Customer Reviews ⭐
-
-<div align="center">
-    <a href="https://www.trustpilot.com/review/reluconsultancy.com" target="_blank">
-        <img src="https://cdn.prod.website-files.com/65d7787caae19304122b9284/66c86d0be116678723864726_trustpilot.webp" alt="Trustpilot logo" height="50">
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://www.g2.com/products/relu-consultancy/reviews" target="_blank">
-        <img src="https://cdn.prod.website-files.com/65d7787caae19304122b9284/66c86d0c859a66cd2f10d63b_google.webp" alt="G2 logo" height="50">
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://g.co/kgs/P7VxVjB" target="_blank">
-        <img src="https://cdn.prod.website-files.com/65d7787caae19304122b9284/66c86d0be9d061a47892ae0a_google-logo.webp" alt="Google logo" height="50">
-    </a>
-</div>
 
 ## Our Services 🛠️
 
