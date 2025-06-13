@@ -56,18 +56,6 @@ We are a team of robust data engineers and software developers dedicated to prov
 
 We have served **500+ clients globally**, helping them establish their businesses. We inherit the property of Relu function by uplifting your business foundation and skyrocketing your growth.
 
-## Our Team 👥
-
-**Worldwide Team of Leaders & Executives**
-
-- **Naman Gupta** - Founder & CEO
-- **Abhishek Meher** - Project Manager
-- **Mohit Yadav** - Project Manager
-- **Tushar** - Sales Manager
-- **Narender** - Python Data Engineer
-- **Kaji** - Python Data Engineer
-- **Vijay Kumar** - Python Data Engineer
-- **Anshul Joshi** - Python Data Engineer
 
 ## Our Partners 🤝
 
