@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://www.reluconsultancy.com" target="_blank"><img src="https://www.reluconsultancy.com/static/media/logo.5a0f7b4b7c2d6b1c2a6f.png" alt="Relu Consultancy Banner" width="400"></a>
+ <a href="https://www.reluconsultancy.com" target="_blank"><img src="https://cdn.prod.website-files.com/65d7787caae19304122b9284/65dab1f5c90e9c01aaa96f04_Logo.png" alt="Relu Consultancy Banner" width="400"></a>
     <br />
     <br />
     <b>We connect your business with innovation and growth through robust data solutions</b>
