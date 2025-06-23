@@ -1,5 +1,5 @@
 <p align="center">
- <a href="https://www.reluconsultancy.com/" target="_blank"><img src="https://cdn.prod.website-files.com/65d7787caae19304122b9284/65dab1f5c90e9c01aaa96f04_Logo.png" alt="Relu Consultancy Banner" width="400"></a>
+ <img src="image (3).png" alt="My Local Image" width="400">
     <br />
     <br />
  <div align="center">
