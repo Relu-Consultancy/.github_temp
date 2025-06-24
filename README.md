@@ -3,6 +3,7 @@
     <br />
     <br />
  <div align="center">
+  <p>Checkout our testimonials...</p>
     <a href="https://www.trustpilot.com/review/reluconsultancy.com" target="_blank">
         <img src="https://cdn.prod.website-files.com/65d7787caae19304122b9284/66c86d0be116678723864726_trustpilot.webp" alt="Trustpilot logo" height="50">
     </a>
