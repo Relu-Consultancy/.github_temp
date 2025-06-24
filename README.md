@@ -18,13 +18,14 @@
     <b>We connect your business with innovation and growth through robust data solutions</b>
 </p>
 
-## About Relu Consultancy �
+## About Relu Consultancy
 
-We are a team of robust data engineers and software developers dedicated to providing web scraping and automation services. Our expertise lies in crafting data-driven solutions that connect your business with growth.
+We are a team of robust data engineers and software developers dedicated to providing web scraping, automation services, Customized solution, CRM solutions, No Code architecture ,Api development etc. Our expertise lies in crafting data-driven solutions that connect your business with growth.
 
 - **150+** Completed Projects
 - **100K+** Lines of Code
 - **12K+** Hours of cloud scraping
+
 
 ### Our Core Principles
 - **Part of Solution, not Pollution** - Opening the World of Work with Data
@@ -82,8 +83,8 @@ We have served **500+ clients globally**, helping them establish their businesse
 ## Connect With Us 📞
 
 - 🌐 [Website](https://www.reluconsultancy.com/)
-- 📧 Email: connect@reluconsultancy.com
-- 📍 Address: E-8/97 Trilanga Colony, Bhopal, India 462039
+- 📧 Email: info@reluconsultancy.com
+- 📍 Address: A21, E8 Extension, Tilak Nagar, Bawadiya Kalan, Gulmohar Colony, Bhopal, Madhya Pradesh 462039
 
 ## Let's Collaborate 💡
 
