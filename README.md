@@ -1,5 +1,5 @@
 <p align="center">
- <img src="image (1).jpg" alt="My Local Image" style="max-width: 100%;">
+ <img src="image (1).jpg" alt="My Local Image" style="max-width: 120%;">
     <br />
     <br />
  <div align="center">
