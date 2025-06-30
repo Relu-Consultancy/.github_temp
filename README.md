@@ -116,7 +116,7 @@ This project implements an AI-driven automation workflow using n8n to capture Ty
 This project delivers a fully automated trading bot using Playwright to extract, clean, and send trading data to a client’s API. It includes browser automation, secure API integration, and deployment-ready infrastructure with built-in error handling and testing.
 
 ---
-
+<img src="image_dashboard.jpg" alt="My Local Image" style="width: 100%;">
 
 ## Our Partners 🤝
 
