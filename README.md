@@ -58,7 +58,7 @@ We are a team of robust data engineers and software developers dedicated to prov
 
 We have served **500+ clients globally**, helping them establish their businesses. We inherit the property of Relu function by uplifting your business foundation and skyrocketing your growth.
 
-## Our 11 Most Impactful Projects 🔥 
+## Our Impactful Projects and Contributions🔥 
 <img src="image_dashboard.png" alt="My Local Image" style="width: 100%;">
 ---
 
