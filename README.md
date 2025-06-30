@@ -59,7 +59,7 @@ We are a team of robust data engineers and software developers dedicated to prov
 We have served **500+ clients globally**, helping them establish their businesses. We inherit the property of Relu function by uplifting your business foundation and skyrocketing your growth.
 
 ## Our 11 Most Impactful Projects 🔥 
-
+<img src="image_dashboard.png" alt="My Local Image" style="width: 100%;">
 ---
 
 **1. E Commerce management**  
@@ -116,7 +116,6 @@ This project implements an AI-driven automation workflow using n8n to capture Ty
 This project delivers a fully automated trading bot using Playwright to extract, clean, and send trading data to a client’s API. It includes browser automation, secure API integration, and deployment-ready infrastructure with built-in error handling and testing.
 
 ---
-<img src="image_dashboard.png" alt="My Local Image" style="width: 100%;">
 
 ## Our Partners 🤝
 
