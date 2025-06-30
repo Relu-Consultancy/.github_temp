@@ -62,27 +62,37 @@ We have served **500+ clients globally**, helping them establish their businesse
 <img src="image_dashboard.png" alt="My Local Image" style="width: 100%;">
 
 
-1. **E-Commerce Management** – End-to-end management including product listing, inventory tracking, order processing, and support across platforms like Shopify, WooCommerce, and Amazon.
+**E-Commerce Management**
+End-to-end management including product listing, inventory tracking, order processing, and support across platforms like Shopify, WooCommerce, and Amazon.
 
-2. **Automated Workflow using Zapier, Make.com & n8n** – Streamlined automation across apps with task automation, data syncing, webhook integrations, and error handling.
+**Automated Workflow using Zapier, Make.com & n8n**
+Streamlined automation across apps with task automation, data syncing, webhook integrations, and error handling.
 
-3. **Real Estate Data Enrichment & Review Management** – Enriches property data, centralizes client review tracking, uses sentiment analysis, and provides a unified response dashboard.
+**Real Estate Data Enrichment & Review Management**
+Enriches property data, centralizes client review tracking, uses sentiment analysis, and provides a unified response dashboard.
 
-4. **Data Migration for EMR** – Migrates and consolidates medical records into modern EMR systems to enhance clinic workflows and reduce administrative load.
+**Data Migration for EMR**
+Migrates and consolidates medical records into modern EMR systems to enhance clinic workflows and reduce administrative load.
 
-5. **Car Wash Maintenance Reporting** – Revenue and membership insights for Gateway & Beverly Hills locations with Excel automation, DRB security, and validated dashboards.
+**Car Wash Maintenance Reporting**
+Revenue and membership insights for Gateway & Beverly Hills locations with Excel automation, DRB security, and validated dashboards.
 
-6. **Consumer Lists Automation** – Extracts social media followers and automates direct messaging using proxy rotation, modular scripts, and API rate limit handling.
+**Consumer Lists Automation**
+Extracts social media followers and automates direct messaging using proxy rotation, modular scripts, and API rate limit handling.
 
-7. **AI Legal Scraper** – AI-powered scraper for legal content using automated tools, CAPTCHA solving, structured storage, and live deployment via proxy-based access.
+**AI Legal Scraper** – AI-powered scraper for legal content using automated tools, CAPTCHA solving, structured storage, and live deployment via proxy-based access.
 
-8. **AI-Driven Automation for Client Interaction Workflow** – Scalable solution connecting forms to CRM/email systems, ready for AI and third-party app integrations.
+**AI-Driven Automation for Client Interaction Workflow**
+Scalable solution connecting forms to CRM/email systems, ready for AI and third-party app integrations.
 
-9. **Sports Betting Automation** – Extracts live/historic data from Turbo111 with real-time odds, API delivery, and trend-ready analytics integration.
+**Sports Betting Automation**
+Extracts live/historic data from Turbo111 with real-time odds, API delivery, and trend-ready analytics integration.
 
-10. **AI Automation for Form Interaction Workflow** – Uses n8n to capture Typeform data, update Google Sheets, and trigger emails with robust error handling and scalability.
+**AI Automation for Form Interaction Workflow**
+Uses n8n to capture Typeform data, update Google Sheets, and trigger emails with robust error handling and scalability.
 
-11. **Trader Bot Automation** – Browser-based bot using Playwright to extract and transmit trading data securely to client APIs with testing and error resilience.
+**Trader Bot Automation** 
+Browser-based bot using Playwright to extract and transmit trading data securely to client APIs with testing and error resilience.
 
 
 ## Our Partners 🤝
