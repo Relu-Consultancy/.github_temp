@@ -60,62 +60,30 @@ We have served **500+ clients globally**, helping them establish their businesse
 
 ## Our Impactful Projects and Contributions🔥 
 <img src="image_dashboard.png" alt="My Local Image" style="width: 100%;">
----
 
-**1. E Commerce management**  
-This service focuses on end-to-end e-commerce management, including product listing, inventory tracking, order processing, and customer support coordination. It streamlines operations across platforms like Shopify, WooCommerce, or Amazon for improved efficiency and sales performance.
 
----
+1. **E-Commerce Management** – End-to-end management including product listing, inventory tracking, order processing, and support across platforms like Shopify, WooCommerce, and Amazon.
 
-**2. Automated Workflow using Zapier, Make.com & n8n** 
-This project implements automated workflows using Zapier, Make.com, and n8n to streamline business processes across apps. It includes data syncing, task automation, webhook integrations, and error handling for efficient and scalable operations.
+2. **Automated Workflow using Zapier, Make.com & n8n** – Streamlined automation across apps with task automation, data syncing, webhook integrations, and error handling.
 
----
+3. **Real Estate Data Enrichment & Review Management** – Enriches property data, centralizes client review tracking, uses sentiment analysis, and provides a unified response dashboard.
 
-**3. Real estate Data enrichment and review management**  
-This project delivers a solution for enriching real estate data with structured property insights and managing client reviews across platforms. It includes data cleaning, tagging, sentiment analysis, and a centralized dashboard for tracking and responding to reviews effectively.
+4. **Data Migration for EMR** – Migrates and consolidates medical records into modern EMR systems to enhance clinic workflows and reduce administrative load.
 
----
+5. **Car Wash Maintenance Reporting** – Revenue and membership insights for Gateway & Beverly Hills locations with Excel automation, DRB security, and validated dashboards.
 
-**4. Data migration EMR**  
-By consolidating and migrating records into a modern EMR platform, clinics and hospitals streamline workflows, reduce administrative burden, and improve care delivery speed.
+6. **Consumer Lists Automation** – Extracts social media followers and automates direct messaging using proxy rotation, modular scripts, and API rate limit handling.
 
----
+7. **AI Legal Scraper** – AI-powered scraper for legal content using automated tools, CAPTCHA solving, structured storage, and live deployment via proxy-based access.
 
-**5. Car Wash maintenance**  
-Focuses on maintaining and enhancing revenue and membership reporting for Gateway and Beverly Hills carwash locations. It includes Excel-based automation, DRB system security updates, comparative analysis, and the delivery of validated dashboards for operational insights.
+8. **AI-Driven Automation for Client Interaction Workflow** – Scalable solution connecting forms to CRM/email systems, ready for AI and third-party app integrations.
 
----
+9. **Sports Betting Automation** – Extracts live/historic data from Turbo111 with real-time odds, API delivery, and trend-ready analytics integration.
 
-**6. Consumer lists Automation**  
-This project delivers an automated system to extract followers from a social media platform and send direct messages using multiple accounts with proxy rotation. It includes API rate limit management, error handling, and modular scripts designed for scalable, compliant outreach.
+10. **AI Automation for Form Interaction Workflow** – Uses n8n to capture Typeform data, update Google Sheets, and trigger emails with robust error handling and scalability.
 
----
+11. **Trader Bot Automation** – Browser-based bot using Playwright to extract and transmit trading data securely to client APIs with testing and error resilience.
 
-**7. AI Legal Scraper**  
-This project builds an AI-powered legal data scraper that collects, cleans, and stores legal content from websites using automated scraping, CAPTCHA solving, and AI tools like ChatGPT. The system ensures structured data storage, proxy-based access, and seamless deployment on a live server.
-
----
-
-**8. AI-Driven Automation for Client Interaction Workflow**  
-Scalable for Any Form-to-CRM or Form-to-Email Scenario, Future-Ready for AI & App Integrations.
-
----
-
-**9. Sports Betting Automation**  
-Extraction of live and historical betting data from Turbo111, capturing odds, match outcomes, and market fluctuations. The system offers real-time updates via a secure REST API, supports trend analysis, and enables seamless integration for sportsbook platforms and analytics tools.
-
----
-
-**10. AI-Driven Automation for Interaction Workflow**  
-This project implements an AI-driven automation workflow using n8n to capture Typeform submissions, update Google Sheets dynamically, and send real-time email notifications. It ensures reliability with structured testing, error handling, and scalable architecture.
-
----
-
-**11. Trader Bot Automation**  
-This project delivers a fully automated trading bot using Playwright to extract, clean, and send trading data to a client’s API. It includes browser automation, secure API integration, and deployment-ready infrastructure with built-in error handling and testing.
-
----
 
 ## Our Partners 🤝
 
